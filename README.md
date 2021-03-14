@@ -1,1 +1,1 @@
-# rpm-calc
+# RPM Calculator using javascript
